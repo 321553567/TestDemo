@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7f9c27c9-84a5-40e6-81be-344cc57cb546" name="变更" comment="多线程第一节课" />
+    <list default="true" id="7f9c27c9-84a5-40e6-81be-344cc57cb546" name="变更" comment="多线程第一节课">
+      <change afterPath="$PROJECT_DIR$/src/Thread/way2_Runnable/MyRun.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Thread/way2_Runnable/ThreadDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,8 +32,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "vue.rearranger.settings.migration": "true"
   }
@@ -42,7 +48,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1695048193238</updated>
-      <workItem from="1695048194555" duration="804000" />
+      <workItem from="1695048194555" duration="1876000" />
     </task>
     <task id="LOCAL-00001" summary="多线程第一节课">
       <created>1695048653541</created>
@@ -51,7 +57,21 @@
       <option name="project" value="LOCAL" />
       <updated>1695048653542</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="多线程第一节课">
+      <created>1695049104179</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1695049104179</updated>
+    </task>
+    <task id="LOCAL-00003" summary="多线程第一节课">
+      <created>1695049120626</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1695049120626</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
