@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7f9c27c9-84a5-40e6-81be-344cc57cb546" name="变更" comment="多线程第一节课">
-      <change afterPath="$PROJECT_DIR$/src/Thread/way2_Runnable/MyRun.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Thread/way2_Runnable/ThreadDemo.java" afterDir="false" />
+    <list default="true" id="7f9c27c9-84a5-40e6-81be-344cc57cb546" name="变更" comment="多线程第二种启动方式">
+      <change afterPath="$PROJECT_DIR$/src/Thread/way3_Callable/MyCallable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Thread/way3_Callable/ThreadDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,7 +48,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1695048193238</updated>
-      <workItem from="1695048194555" duration="1876000" />
+      <workItem from="1695048194555" duration="2830000" />
     </task>
     <task id="LOCAL-00001" summary="多线程第一节课">
       <created>1695048653541</created>
@@ -71,7 +71,14 @@
       <option name="project" value="LOCAL" />
       <updated>1695049120626</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="多线程第二种启动方式">
+      <created>1695050279320</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1695050279320</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -90,6 +97,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="多线程第一节课" />
-    <option name="LAST_COMMIT_MESSAGE" value="多线程第一节课" />
+    <MESSAGE value="多线程第二种启动方式" />
+    <option name="LAST_COMMIT_MESSAGE" value="多线程第二种启动方式" />
   </component>
 </project>
