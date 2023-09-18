@@ -1,4 +1,6 @@
-package Thread;
+package Thread.way1_Thread;
+
+import Thread.way1_Thread.MyThread;
 
 public class ThreadDemo {
     public static void main(String[] args) {

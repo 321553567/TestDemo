@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7f9c27c9-84a5-40e6-81be-344cc57cb546" name="变更" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestDemo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Thread/MyThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Thread/ThreadDemo.java" afterDir="false" />
-    </list>
+    <list default="true" id="7f9c27c9-84a5-40e6-81be-344cc57cb546" name="变更" comment="多线程第一节课" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,11 +42,34 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1695048193238</updated>
-      <workItem from="1695048194555" duration="385000" />
+      <workItem from="1695048194555" duration="804000" />
     </task>
+    <task id="LOCAL-00001" summary="多线程第一节课">
+      <created>1695048653541</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1695048653542</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="多线程第一节课" />
+    <option name="LAST_COMMIT_MESSAGE" value="多线程第一节课" />
   </component>
 </project>
